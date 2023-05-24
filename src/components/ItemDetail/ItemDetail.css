@@ -1,0 +1,12 @@
+.contenedorItem {
+    text-align: center;
+    border: 1px solid #e3e1e1;
+    margin: 3rem;
+}
+.imgProducto{
+    width: 150px;
+    object-fit: contain;
+}
+img {
+    width: 50vw;
+}
